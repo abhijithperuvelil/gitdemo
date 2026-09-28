@@ -1,0 +1,6 @@
+git confing --global user.name="username"
+git confing --global user.email="email"
+-- git init --
+git status
+git add.
+git commit-m "commit message"
