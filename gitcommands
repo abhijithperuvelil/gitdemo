@@ -4,3 +4,6 @@ git confing --global user.email="email"
 git status
 git add.
 git commit-m "commit message"
+git log
+git remote add origin link
+git push origin master
