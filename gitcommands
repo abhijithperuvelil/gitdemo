@@ -7,3 +7,4 @@ git commit-m "commit message"
 git log
 git remote add origin link
 git push origin master
+git remote -v for showing the details of remote repository
